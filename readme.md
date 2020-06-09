@@ -1,4 +1,7 @@
 [Readme](readme.md)|[Lista](lista.md)
+
+![Cami](https://2.bp.blogspot.com/-MRAIEYff1Q0/W_VEg0rQxuI/AAAAAAAATKY/1t-XbuCLzgA2kYkfSOlRzvdOmZR3Du4VQCLcBGAs/s1600/Sheldon%2BCooper%2BGawalpop.jpg)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/gaboq8/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
